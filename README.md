@@ -21,5 +21,7 @@
 - Poprawiono błąd, który powodował, że ilość yang podczas sprzedaży Niebieskiej Mikstury wchodziła na minus.
 ```
 <p align="center">
-<img width="720" height="480" src="https://media0.giphy.com/media/l36986wxpmjJu5FpCt/giphy.gif"/>
+  <video width="1392" height="706" autoplay>
+  <source src="https://i.imgur.com/ME0lMDp.mp4" type="video/mp4">
+</video>
 </p>
