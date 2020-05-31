@@ -20,8 +20,4 @@
 - Poprawiono Kamień Kowala od teraz crafting z tym itemem działa normalnie.
 - Poprawiono błąd, który powodował, że ilość yang podczas sprzedaży Niebieskiej Mikstury wchodziła na minus.
 ```
-<p align="center">
-  <video width="1392" height="706" autoplay>
-  <source src="https://i.imgur.com/ME0lMDp.mp4" type="video/mp4">
-</video>
-</p>
+![](https://i.imgur.com/igmA2W0.gif)
