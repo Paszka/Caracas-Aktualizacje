@@ -1,4 +1,6 @@
 ###### Caracas Aktualizacja v1.0 ######
+![](https://media0.giphy.com/media/l36986wxpmjJu5FpCt/giphy.gif)
+
 	- Poprawiono nazwy skilli dla Wilkołaka podczas używania Zwóju Powrotu Umiejętności.
 	- Podniesiono obrażenia o 55 z nowych broni, które można robić z podstawowych na 30 poziom.
 	- Poprawiono pasywną umiejętność, która nie dodawała HP.
@@ -18,6 +20,3 @@
 	- Poprawiono niektórym mobom ilość życia.
 	- Poprawiono Kamień Kowala od teraz crafting z tym itemem działa normalnie.
 	- Poprawiono błąd, który powodował, że ilość yang podczas sprzedaży Niebieskiej Mikstury wchodziła na minus.
-
-
-![](https://media.giphy.com/media/jp26ncVTLWiGFIhCGv/giphy.mp4)
