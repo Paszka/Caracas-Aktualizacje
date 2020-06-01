@@ -1,3 +1,17 @@
+## Caracas Aktualizacja v1.1
+```
+- Od teraz bonus na potwory będzie podświetlał się na złoty kolor, gdy będzie on miał maksymalną wartość.
+- Od teraz szansa na otrzymanie Szkatułki Umarłego Rozpruwacza jest równa 100%.
+- Ponownie przyjrzeliśmy się problemowi z ładowaniem mobów podczas jazdy na wierzchowcach, błąd ten powinien być już całkowicie naprawiony.
+- Poprawiono błąd, który powodował, że użycie klucza na zestackowanej skrzyni, kasował cały stack zamiast jednej sztuki.
+- Poprawiono błąd, który umożliwiał wcześniejsze użycie pakietu VIP, przed końcem poprzedniego.
+- Poprawiono błąd, który uniemożliwiał ulepszanie alchemii.
+- Poprawiono łączenie się przedmiotu Skrzynia Czarów.
+~ Dodano możliwość kliknięcia napis z wersją klienta, od teraz będzie on nas przenosił do spisu zmian, jakie wykonaliśmy na serwerze. ~
+```
+<p align="center">
+  <img src="https://media.giphy.com/media/l0XgP799b3q6tIcx7L/giphy.gif"/>
+</p>
 ## Caracas Aktualizacja v1.0
 ```
 - Poprawiono nazwy skilli dla Wilkołaka podczas używania Zwóju Powrotu Umiejętności.
