@@ -12,6 +12,7 @@
 <p align="center">
   <img src="https://scontent.fpoz2-1.fna.fbcdn.net/v/t1.0-9/101736615_252404519528129_6563423345046454272_o.png?_nc_cat=106&_nc_sid=8024bb&_nc_ohc=I4cCg18wVEAAX_zHuDP&_nc_ht=scontent.fpoz2-1.fna&oh=dcc4d67499f0299cec8e89c233c43081&oe=5EFB51AE"/>
 </p>
+
 ## Caracas Aktualizacja v1.0
 ```
 - Poprawiono nazwy skilli dla Wilkołaka podczas używania Zwóju Powrotu Umiejętności.
