@@ -1,4 +1,4 @@
-## Caracas Aktualizacja v1.1
+## Caracas Aktualizacja v1.2
 ```
 - Naprawiono błąd, który powodował, że nie zawsze wylogowało nas po ukończonej wyprawie na Smoka.
 - Od teraz będzie można pokazać alchemię za chacie oraz prywatnej wiadomości.
