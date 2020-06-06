@@ -1,5 +1,30 @@
 ## Caracas Aktualizacja v1.1
 ```
+- Naprawiono błąd, który powodował, że nie zawsze wylogowało nas po ukończonej wyprawie na Smoka.
+- Od teraz będzie można pokazać alchemię za chacie oraz prywatnej wiadomości.
+- Od teraz cena księgi umiejętności będzie zapamiętywana z każdej poszczególnej księgi, a nie tak jak było dotychczas ogólnie.
+- Od teraz przedmioty zakupione u handlarzy będą się automatycznie łączyć z tymi w ekwipunku.
+- Poprawiono błąd, który powodował, że Zwierzaki z systemu zwierząt domowych się odwoływały po teleportacji.
+- Poprawiono błąd, który uniemożliwiał pisanie wiadomości w oknie gildii.
+- Poprawiono błędne nazwy umiejętności podczas restetu skilli zwojem powrotu.
+- Poprawiono błędną nazwę metina w misji metinologa z metinami morderstwa.
+- Poprawiono nieprawidłowe i opóźnione animacje Nemere, Razadora i Olbrzymiego Żółwia.
+- Wartość ataku z umiejętności Zwiększenie Ataku na Szamanie została podwojona.
+- Zmniejszono ceny ulepszania marmurów.
+- Zmniejszono ceny wytwarzania broni.
+- Umożliwiono łączenie się następujących przedmiotów oraz sprzedawanie niektórych:
+	- Broszura szermierki.
+	- Pierścienie doświadczenia.
+	- Księgi Lidera.
+	- Rękawice złodzieja.
+	- Mega przekąski.
+	- Przekąski.
+	- Świadectwo Moy.
+	- Zbroje dla Wilka np. Stal +6.
+	- Owoc życia.
+```
+## Caracas Aktualizacja v1.1
+```
 - Od teraz bonus na potwory będzie podświetlał się na złoty kolor, gdy będzie on miał maksymalną wartość.
 - Od teraz szansa na otrzymanie Szkatułki Umarłego Rozpruwacza jest równa 100%.
 - Ponownie przyjrzeliśmy się problemowi z ładowaniem mobów podczas jazdy na wierzchowcach, błąd ten powinien być już całkowicie naprawiony.
