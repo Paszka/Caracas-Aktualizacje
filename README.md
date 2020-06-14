@@ -1,3 +1,19 @@
+## Caracas Aktualizacja v1.3
+```
+- Podniesiono szansę na ulepszenie alchemii w jej stopniu jakości o około 30%.
+- Poprawiono obrażenia broni na 55 poziom dla wilkołaka (ostatnio została pominięta).
+- Poprawiono drop przedmiotów Biologa na 92 wcześniej szansa na drop była 1 na 200 teraz 1 na 50.
+- Poprawiono drop przedmiotów Biologa na 94 wcześniej szansa na drop była 1 na 400 teraz 1 na 100.
+- Podniesiono ewolucję zwierzaków, od teraz podświetlają się przedmioty, które można włożyć do okna oraz dodano szybkie dodawanie PPM.
+- Poprawiono łączenie się przedmiotów:
+	- Życie Boga Smoków.
+	- Atak Boga Smoków.
+	- Inteligencja Boga Smoków.
+	- Obrona Boga Smoków.
+- Dodaliśmy na serwer nowy bonus premium, który umożliwia podwojenie zdobywanych punktów kilofa.
+- Dodaliśmy na serwer nowy przedmiotów, który również umożliwia podwojenie zdobywanych punktów kilofa.
+- Dodaliśmy zapis lokalizacji na 5 pozycji, cena to 5.000.000 Yang.
+```
 ## Caracas Aktualizacja v1.2
 ```
 - Naprawiono błąd, który powodował, że nie zawsze wylogowało nas po ukończonej wyprawie na Smoka.
